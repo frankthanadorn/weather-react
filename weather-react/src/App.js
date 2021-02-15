@@ -5,7 +5,7 @@ const api ={
 }
 function App() {
   return (
-    <div className="App">
+    <div className="app warm">
       <main>
         <div className="search-box">
           <input 
